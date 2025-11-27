@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="main_padding">32dp</dimen>
+    <dimen name="_10dp">15dp</dimen>
+    <dimen name="_40dp">40dp</dimen>
+    <dimen name="toolbar_padding_bottom">10dp</dimen>
+    <dimen name="toolbar_padding_top">40dp</dimen>
+    <dimen name="toolbar_height">100dp</dimen>
+    <dimen name="view_spacing_large">24dp</dimen>
+    <dimen name="view_spacing_medium">16dp</dimen>
+    <dimen name="view_spacing_small">8dp</dimen>
+    <dimen name="title_bottom_margin">48dp</dimen>
+</resources>

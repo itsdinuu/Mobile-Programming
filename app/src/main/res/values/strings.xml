@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Aplikasi Dinu</string>
+    <string name="lbl_usn">Username</string>
+    <string name="date_of_birth">Date of Birth</string>
+    <string name="nm_app">Freedom</string>
+    <string name="login">Login</string>
+    <string name="sign_in_prompt">Sign in your account to continue</string>
+    <string name="password">Password</string>
+    <string name="no_account_prompt">Don\'t have an account?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="full_name">Fullname</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="reg_nm">Add Freedom</string>
+    <string name="already_have_account">Already have an account?</string>
+    <string name="create_a_new_account">Create a new account</string>
+    <string name="signin_prompt">Sign in to continue</string>
+    <string name="sign_in">Sign In</string>"
+    <string name="ket">Username atau password tidak boleh kosong</string>
+</resources>
