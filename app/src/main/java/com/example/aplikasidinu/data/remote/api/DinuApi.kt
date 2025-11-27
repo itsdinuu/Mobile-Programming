@@ -15,4 +15,14 @@ interface DinuApi {
         @Field("username") username: String,
         @Field("password") password: String
     ) : BaseResponse<LoginResponse>
+
+    @FormUrlEncoded
+    @POST("auth/register.php")
+
+    suspend fun register(
+        @Field("username") username: String,
+        @Field("full_name") full_name: String,
+        @Field("date_of_birth") date_of_birth: String,
+        @Field("password") password: String,
+    ): BaseResponse<Any>
 }

@@ -13,4 +13,8 @@ class DinuRepository @Inject constructor(
         return dinuApi.login(username, password)
     }
 
+    suspend fun register(username: String, full_name: String, date_of_birth: String, password: String): BaseResponse<Any> {
+        return dinuApi.register(username, full_name, date_of_birth, password)
+    }
+
 }
